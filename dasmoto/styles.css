@@ -1,0 +1,23 @@
+h1 {
+	  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+	  font-family: 'Permanent Marker', cursive;
+	  color:#ff835d;
+	  font-size: 60px;
+	  text-align: center;
+	  padding-top: 24px;
+	  padding-bottom: 24px;
+}
+
+h2 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 24px;
+}
+
+h3, p {
+	font-family: 'Roboto Slab', serif;
+	color:#121212;
+}
+
+body {
+	padding: 0 24px;
+}
